@@ -4,7 +4,7 @@
 
 ### Major Projects
 
-[Agricultural Data Collection Robot](/sample_page)
+[Agricultural Data Collection Robot](/agricultural_data_collection_robot)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
