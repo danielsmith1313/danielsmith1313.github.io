@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Major Projects
 
-[Project 1 Title](/sample_page)
+[Agricultural Data Collection Robot](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NASA Autonomous Navigation Using Node Based Pathfinding](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
