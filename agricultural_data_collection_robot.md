@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Agricultural Data Collection Robot
 
 **Project description:** This project, funded by the University of Nebraska Panhandle Research Extension Center, involved
 the designing, programming, and testing of an offroad robotic platform. The goal of this research was to create a robot
