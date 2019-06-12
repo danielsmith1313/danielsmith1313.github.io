@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NASA Autonomous Navigation Using Node Based Pathfinding](/pdf/sample_presentation.pdf)
+[NASA Autonomous Navigation Using Node Based Pathfinding](danielsmith1313.github.io/node_based_pathfinding)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
