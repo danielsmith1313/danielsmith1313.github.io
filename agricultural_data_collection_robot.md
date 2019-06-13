@@ -6,6 +6,6 @@ Source code available [here](https://github.com/danielsmith1313/nasa-ne-2019).
 
 ### 1. Code examples:
 
-### 2. Application example:
+### 2. Pictures:
 
 ### 3. Challenges and Future Use of this Project

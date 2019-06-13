@@ -66,7 +66,7 @@ def obstacleAvoidance(self):
 ```
 
 
-### 2. Application example:
+### 2. Pictures:
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
