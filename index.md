@@ -5,7 +5,7 @@
 ### Major Projects
 
 [Agricultural Data Collection Robot](danielsmith1313.github.io/agricultural_data_collection_robot)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/agriculture_robot_thumbnail.jpg?raw=true"/>
 
 ---
 [NASA Autonomous Navigation Using Node Based Pathfinding](danielsmith1313.github.io/node_based_pathfinding)
