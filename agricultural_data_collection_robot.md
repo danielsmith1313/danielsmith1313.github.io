@@ -9,7 +9,7 @@ After figuring out this tracking, I was the main contributer to programming the 
 
 #A preliminary gui application that was scrapped for a more automated, database driven script
 
-[A preliminary gui application that was scrapped for a more automated, database driven script](./images/prototype_window.PNG)
+[A preliminary gui application that was scrapped for a more automated, database driven script](./images/prototype_window.png)
 
 Another small part of this project was the use of 3d printing and 3d modeling in order to create a structure for the robot to use. In the image below, you can see the container that was designed and printed using blender. I found being able to design and build small parts from scratch was extremely useful and rather simple once learned. 
 
