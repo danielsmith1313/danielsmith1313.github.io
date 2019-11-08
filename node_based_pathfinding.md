@@ -14,4 +14,4 @@ One major challenge of this project was the organization of code. Due to this be
 #My very first application programmed from scratch
 ![My very first application programmed from scratch]
 
-What I learned the most from this project was that it gave me a different view of programming when compared to my college classes. For one, I had taught myself an entirely new language by myself. 
+What I learned the most from this project was that it gave me a different view of programming when compared to my college classes. For one, I had taught myself an entirely new language by myself, which is still my preffered programming language today. Secondly, while I had finished projects before, reporting, documenting and being responsible for your own work gave me another form of motivation which helped me improve my programming skills.
