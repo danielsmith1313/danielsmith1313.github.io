@@ -5,7 +5,7 @@
 ![An example of the program blending the image](images/green_shaping.PNG)
 **An example of the program blending the image**
 
-After figuring out this tracking, I was the main contributer to programming the robot. During this time, I learned a lot about automating processes with linux as we were using raspberry pis as the logic controller. I was in charge of making the robot was accessible by employees with little to no programming knowledge. This included startup scripts, config files, uploading files to a website, and error messages for them to troubleshoot. This taught me the large step a program goes from being usable by a programmer, to being usable by a normal user. 
+After figuring out this tracking, I was the main contributor to programming the robot. During this time, I learned a lot about automating processes with Linux as we were using raspberry pis as the logic controller. I was also in charge of making sure the robot was accessible by employees with little to no programming knowledge. This included startup scripts, config files, uploading files to a website, manuals, and error messages for them to troubleshoot. This taught me the large step a program goes from being usable by a programmer, to being usable by a normal user. 
 
 ![A preliminary gui application that was scrapped for a more automated, database driven script](/images/prototype_window.png)
 **A preliminary gui application that was scrapped for a more automated, database driven script**
@@ -15,4 +15,4 @@ Another small part of this project was the use of 3d printing and 3d modeling in
 ![The chassis design of the robot, ready to print](images/3d_model.jpg)
 **The chassis design of the robot, ready to print**
 
-The final part of this robot (and one I am still working on) is implementation of this robot onto a database and website designed seperatly by Joseph, who worked on this project. While still in the preliminary stages, I will collaberate again with all the work he has done learning html, and implement my own html page that displays data using a php script.
+The final part of this robot (and one I am still working on) is implementation of this robot onto a database and website designed separately by Joseph, who worked on this project. While still in the preliminary stages, I will collaborate again with all the work he has done learning html, and implement my own html page that displays data using a php script.
